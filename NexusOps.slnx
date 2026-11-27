@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NexusOps.API/NexusOps.API.csproj" />
+    <Project Path="src/NexusOps.Application/NexusOps.Application.csproj" />
+    <Project Path="src/NexusOps.Domain/NexusOps.Domain.csproj" />
+    <Project Path="src/NexusOps.Infrastructure/NexusOps.Infrastructure.csproj" />
+    <Project Path="src/NexusOps.Simulator/NexusOps.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NexusOps.UnitTests/NexusOps.UnitTests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,11 @@
+@NexusOps.API_HostAddress = http://localhost:5104
+
+GET {{NexusOps.API_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{NexusOps.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
